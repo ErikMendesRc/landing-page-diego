@@ -50,7 +50,7 @@ const Highlight = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-4xl md:text-5xl font-extrabold text-center text-blue-700 mb-6">Nossa Empresa</h2>
         <p className="text-center text-lg md:text-xl text-gray-700 max-w-3xl mx-auto mb-16">
-          A SuaEmpresa é uma empresa brasileira que fornece soluções inovadoras para o crescimento do seu negócio. Com anos de experiência, oferecemos serviços de alta qualidade em diversos segmentos.
+          A NRG TECHNOLOGY é uma empresa brasileira que fornece soluções inovadoras para o crescimento do seu negócio. Com anos de experiência, oferecemos serviços de alta qualidade em diversos segmentos.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {highlights.map((highlight, index) => (
